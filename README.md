@@ -13,4 +13,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Vite
 - CSS
 ##
+- Confira também esse projeto desenvolvido com JS [🔗](https://github.com/yan-valadares/ignite-feed-JS)
 - Feito com base em aulas da Rocketseat [🚀](https://www.rocketseat.com.br)
